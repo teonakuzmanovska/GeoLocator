@@ -1,6 +1,7 @@
 # GeoLocator
 
 A Flutter project with geolocating service.
+Sends addresses to google geocoding API and receives their coordinates
 
 ## Getting Started
 
